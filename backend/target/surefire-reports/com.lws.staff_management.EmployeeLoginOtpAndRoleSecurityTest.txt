@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.lws.staff_management.EmployeeLoginOtpAndRoleSecurityTest
--------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 42.92 s -- in com.lws.staff_management.EmployeeLoginOtpAndRoleSecurityTest
